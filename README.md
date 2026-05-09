@@ -40,7 +40,7 @@
 
 ### 🔥 Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ameeshafremith&theme=dark&hide_border=true&ring=FFC300&fire=FFC300&currStreakLabel=FFC300)](https://git.io/streak-stats)
+<img width="60%" src="https://streak-stats.demolab.com?user=Ameeshafremith&theme=tokyonight&hide_border=true&ring=FFC300&fire=FFC300&currStreakLabel=FFC300&background=0d0d0d"/>
 
 ---
 
