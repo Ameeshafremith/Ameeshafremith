@@ -52,6 +52,7 @@
 | 🎮 Connect Four Online | Java board game with GUI | Java |
 | 📱 Hutch Customer Service App | Desktop JavaFX application | Java, JavaFX |
 | 🌐 Personal Portfolio | Responsive portfolio website | HTML, CSS, JS |
+| 🌐 Web Based POS System | Online Web based Point Of Sale system | HTML, CSS, JS |
 
 ---
 
