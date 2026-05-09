@@ -33,8 +33,8 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ameeshafremith&show_icons=true&theme=radical&hide_border=true&title_color=FFC300&icon_color=FFC300&text_color=ffffff&bg_color=0d0d0d" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameeshafremith&layout=compact&theme=radical&hide_border=true&title_color=FFC300&text_color=ffffff&bg_color=0d0d0d" width="48%"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ameeshafremith&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFC300&icon_color=FFC300&text_color=ffffff&bg_color=0d0d0d&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameeshafremith&layout=compact&theme=tokyonight&hide_border=true&title_color=FFC300&text_color=ffffff&bg_color=0d0d0d"/>
 
 ---
 
